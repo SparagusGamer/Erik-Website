@@ -1,7 +1,7 @@
 **Arts of Erik by SparagusGamer#0001**
 
-![Pixel Erik](/./images/Erik.png)
+>![Pixel Erik](/./images/Erik.png)
+>Pixel Erik
 
-#
-
-Contribute to the [code](https://github.com/SparagusGamer/Erik-Website/). 
+>![8-bit Erik](/./images/8-bit_Erik.png)
+>8-bit Erik
